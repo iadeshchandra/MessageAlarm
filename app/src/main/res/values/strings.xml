@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Message Alarm</string>
+    <string name="service_label">Notification Alarm Listener</string>
+    <string name="service_running_title">Message Alarm is Active</string>
+    <string name="service_running_desc">Monitoring notifications for alarms</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    <string name="snooze">Snooze</string>
+    <string name="fiverr_url">https://fiverr.com/adesh_chandra</string>
+    <string name="developer_name">Adesh Chandra</string>
+</resources>

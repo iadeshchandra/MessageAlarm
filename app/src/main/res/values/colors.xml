@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#003c8f</color>
+    <color name="primary_container">#D6E4FF</color>
+    <color name="secondary">#455A64</color>
+
+    <!-- App-specific -->
+    <color name="upwork_green">#14A800</color>
+    <color name="fiverr_green">#1DBF73</color>
+    <color name="alarm_bg">#0D1117</color>
+    <color name="alarm_text_primary">#FFFFFF</color>
+    <color name="alarm_text_secondary">#B0BEC5</color>
+    <color name="alarm_accent">#2979FF</color>
+
+    <!-- Misc -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="permission_card_bg">#FFF3E0</color>
+    <color name="permission_card_stroke">#FF9800</color>
+    <color name="permission_text">#E65100</color>
+</resources>
