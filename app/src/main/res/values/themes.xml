@@ -13,7 +13,5 @@
         <item name="android:statusBarColor">@color/alarm_bg</item>
         <item name="android:navigationBarColor">@color/alarm_bg</item>
         <item name="android:windowLightStatusBar">false</item>
-        <item name="android:windowShowWhenLocked">true</item>
-        <item name="android:windowTurnScreenOn">true</item>
     </style>
 </resources>
